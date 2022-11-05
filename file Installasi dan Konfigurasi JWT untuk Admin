@@ -1,2 +1,4 @@
 Langkah 1 - Installasi JWT (Json Web Token)
 Langkah 2 - Publish Konfigurasi File
+Langkah 3 - Generate Secreet Key
+Langkah 4 - Konfigurasi Guard API untuk Admin
