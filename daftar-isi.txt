@@ -1,10 +1,10 @@
 Instalasi dan persiapan backend
 Database
 Restful API Admin
-  - Apa itu API ?
-  - Apa itu JWT (Json Web Token) ?
+  * Apa itu API ?
+  * Apa itu JWT (Json Web Token) ?
 Restful API Customer
-  - Restful API Dashoard Customer
-  - Restful API Invoices Customer
+  * Restful API Dashoard Customer
+  * Restful API Invoices Customer
 
 
