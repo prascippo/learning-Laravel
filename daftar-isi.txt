@@ -1,4 +1,10 @@
 Instalasi dan persiapan backend
+  * Persiapan dan Persyaratan Tools
+     * Langkah 1 - Installasi Text Editor
+     * Langkah 2 - Installasi Web Server
+     * Langkah 3 - Installasi Node.js
+     * Langkah 4 - Installasi Composer
+     * Langkah 5 - Installasi Postman
 Database
 Restful API Admin
   * Apa itu API ?
