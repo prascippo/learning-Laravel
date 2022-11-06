@@ -1,9 +1,14 @@
 Instalasi dan persiapan backend
+  * Persiapan dan Persyaratan Tools
+     * Langkah 1 - Installasi Text Editor
+     * Langkah 2 - Installasi Web Server
+     * Langkah 3 - Installasi Node.js
+     * Langkah 4 - Installasi Composer
+     * Langkah 5 - Installasi Postman
   * Membuat Project Baru Laravel Dengan Composer
      * Langkah 1 - Membuat Project Laravel
      * Langkah 2 - Menjalankan Project Laravel
      * Langkah 3 - Menjalankan Storage Link
-     * 
 Database
 Restful API Admin
   * Apa itu API ?
