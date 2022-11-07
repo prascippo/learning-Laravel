@@ -1,0 +1,3 @@
+Langkah 1 - Membuat Controller API login
+  command : php artisan make:controller Api/Admin/LoginController
+Langkah 2 - Membuat Route
