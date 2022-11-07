@@ -1,2 +1,3 @@
 Langkah 1 - Membuat Controller API login
-  command : <b>php artisan make:controller Api/Admin/LoginController</b>
+  command : php artisan make:controller Api/Admin/LoginController
+Langkah 2 - Membuat Route
